@@ -1,0 +1,9 @@
+com\tamasbakos\customer\model\FraudCheckResponse.class
+com\tamasbakos\customer\service\CustomerService.class
+com\tamasbakos\customer\controller\CustomerController.class
+com\tamasbakos\customer\model\CustomerRegistrationRequest.class
+com\tamasbakos\customer\model\Customer.class
+com\tamasbakos\customer\repository\CustomerRepository.class
+com\tamasbakos\customer\config\CustomerConfig.class
+com\tamasbakos\customer\model\Customer$CustomerBuilder.class
+com\tamasbakos\customer\CustomerApplication.class

@@ -1,0 +1,7 @@
+dev\tamasbakos\fraud\model\FraudCheckResponse.class
+dev\tamasbakos\fraud\FraudApplication.class
+dev\tamasbakos\fraud\controller\FraudController.class
+dev\tamasbakos\fraud\model\FraudCheckHistory$FraudCheckHistoryBuilder.class
+dev\tamasbakos\fraud\model\FraudCheckHistory.class
+dev\tamasbakos\fraud\service\FraudCheckService.class
+dev\tamasbakos\fraud\repository\FraudCheckHistoryRepository.class
